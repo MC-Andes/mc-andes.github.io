@@ -1,0 +1,43 @@
+site_name: MC-Andes
+site_url: https://mc-andes.github.io/
+site_description: Mecánica computacional abierta, reproducible y colaborativa en Uniandes
+repo_url: https://github.com/MC-Andes
+repo_name: MC-Andes
+theme:
+  name: material
+  language: es
+  features:
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: deep orange
+nav:
+  - Inicio: index.md
+  - Proyectos: projects.md
+  - Publicaciones: publications.md
+  - Blog: blog/index.md
+  - Contribuir: contributing.md
+plugins:
+  - search
+  - blog:
+      blog_dir: blog
+      post_date_format: long
+      archive_date_format: yyyy
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.highlight
+  - pymdownx.superfences
+extra_css:
+  - stylesheets/extra.css
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/MC-Andes
+copyright: Copyright &copy; 2026 MC-Andes · Código abierto bajo las licencias de cada proyecto
+strict: true
