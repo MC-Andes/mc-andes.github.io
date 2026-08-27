@@ -29,9 +29,32 @@ trabajo reproducible.
 
 </div>
 
+## Curso destacado
+
+<div class="grid cards" markdown>
+
+-   ∫ **FEniCSx/DOLFINx para mecánica computacional**
+
+    ---
+
+    Curso abierto y autocontenido en español, desde variables, mallas y formas
+    débiles hasta elasticidad, Navier–Stokes, hiperelasticidad y Cahn–Hilliard.
+    Incluye doce módulos, trece ejemplos verificables, prácticas, soluciones y
+    ejecución serial/MPI con FEniCSx 0.11 y Python 3.12.
+
+    No requiere inscripción, docente ni calificaciones: cada persona aprende y
+    comprueba los resultados a su propio ritmo.
+
+    [Entrar al curso](https://mc-andes.github.io/fenicsx-course/){ .md-button .md-button--primary }
+    [Código](https://github.com/MC-Andes/fenicsx-course){ .md-button }
+    [Release v0.1.0](https://github.com/MC-Andes/fenicsx-course/releases/tag/v0.1.0){ .md-button }
+
+</div>
+
 ## Empieza aquí
 
 - Explora los [proyectos](projects.md).
+- Aprende con los [cursos autoguiados](courses.md).
 - Lee las [normas organizacionales](https://github.com/MC-Andes/standards).
 - Crea un proyecto con una de nuestras plantillas.
 - Consulta el [blog](blog/index.md) para decisiones y avances.

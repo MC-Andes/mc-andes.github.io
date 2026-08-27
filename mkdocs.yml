@@ -17,6 +17,7 @@ theme:
       accent: deep orange
 nav:
   - Inicio: index.md
+  - Cursos: courses.md
   - Proyectos: projects.md
   - Publicaciones: publications.md
   - Blog: blog/index.md
