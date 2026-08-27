@@ -32,6 +32,7 @@ trabajo reproducible.
 ## Empieza aquí
 
 - Explora los [proyectos](projects.md).
+- Aprende con los [cursos autoguiados](courses.md).
 - Lee las [normas organizacionales](https://github.com/MC-Andes/standards).
 - Crea un proyecto con una de nuestras plantillas.
 - Consulta el [blog](blog/index.md) para decisiones y avances.
