@@ -10,9 +10,9 @@ scripts reproducibles, prácticas, soluciones y comprobaciones automáticas.
 
     ---
 
-    **Nivel:** fundamentos a avanzado  
-    **Idioma:** español  
-    **Estado:** v0.1.0 disponible  
+    **Nivel:** fundamentos a avanzado<br>
+    **Idioma:** español<br>
+    **Estado:** v0.1.0 disponible<br>
     **Entorno:** FEniCSx 0.11 · Python 3.12 · MPI/PETSc
 
     Desde variables, mallas, espacios y formas débiles hasta elasticidad,
