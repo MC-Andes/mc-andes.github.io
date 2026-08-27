@@ -12,7 +12,7 @@ scripts reproducibles, prácticas, soluciones y comprobaciones automáticas.
 
     **Nivel:** fundamentos a avanzado<br>
     **Idioma:** español<br>
-    **Estado:** v0.1.0 disponible<br>
+    **Estado:** v0.1.1 disponible<br>
     **Entorno:** FEniCSx 0.11 · Python 3.12 · MPI/PETSc
 
     Desde variables, mallas, espacios y formas débiles hasta elasticidad,
@@ -21,7 +21,7 @@ scripts reproducibles, prácticas, soluciones y comprobaciones automáticas.
 
     [Abrir el curso](https://mc-andes.github.io/fenicsx-course/){ .md-button }
     [Ver el código](https://github.com/MC-Andes/fenicsx-course){ .md-button }
-    [Descargar v0.1.0](https://github.com/MC-Andes/fenicsx-course/releases/tag/v0.1.0){ .md-button }
+    [Descargar v0.1.1](https://github.com/MC-Andes/fenicsx-course/releases/tag/v0.1.1){ .md-button }
 
 </div>
 

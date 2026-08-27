@@ -47,7 +47,7 @@ trabajo reproducible.
 
     [Entrar al curso](https://mc-andes.github.io/fenicsx-course/){ .md-button .md-button--primary }
     [Código](https://github.com/MC-Andes/fenicsx-course){ .md-button }
-    [Release v0.1.0](https://github.com/MC-Andes/fenicsx-course/releases/tag/v0.1.0){ .md-button }
+    [Release v0.1.1](https://github.com/MC-Andes/fenicsx-course/releases/tag/v0.1.1){ .md-button }
 
 </div>
 
