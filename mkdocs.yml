@@ -8,16 +8,21 @@ theme:
   language: es
   features:
     - navigation.sections
+    - navigation.path
     - navigation.top
     - navigation.footer
+    - toc.follow
     - content.code.copy
   palette:
     - scheme: default
-      primary: indigo
-      accent: deep orange
+      primary: custom
+      accent: custom
 nav:
   - Inicio: index.md
-  - Proyectos: projects.md
+  - Cursos: courses.md
+  - Proyectos:
+      - Catálogo: projects.md
+      - Cavitación · Basilisk–MPM: projects/cavitation-coupling.md
   - Publicaciones: publications.md
   - Blog: blog/index.md
   - Contribuir: contributing.md
@@ -34,7 +39,7 @@ markdown_extensions:
   - pymdownx.highlight
   - pymdownx.superfences
 extra_css:
-  - stylesheets/extra.css
+  - stylesheets/mc-andes-theme.css
 extra:
   social:
     - icon: fontawesome/brands/github
