@@ -8,7 +8,7 @@ scripts reproducibles, prácticas, soluciones y comprobaciones automáticas.
 
 <div class="grid cards" markdown>
 
--   **FEniCSx/DOLFINx para mecánica computacional**
+- **FEniCSx/DOLFINx para mecánica computacional**
 
     ---
 

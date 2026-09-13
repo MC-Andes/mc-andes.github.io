@@ -11,19 +11,19 @@ Construimos resultados que puedan revisarse, ejecutarse y extenderse.
 
 <div class="grid cards" markdown>
 
--   **Software verificable**
+- **Software verificable**
 
     ---
 
     Plantillas con lint, pruebas, documentación y revisiones obligatorias.
 
--   **Investigación reproducible**
+- **Investigación reproducible**
 
     ---
 
     Supuestos, datos, ejemplos y limitaciones documentados cerca del código.
 
--   **Colaboración sostenible**
+- **Colaboración sostenible**
 
     ---
 
@@ -35,7 +35,7 @@ Construimos resultados que puedan revisarse, ejecutarse y extenderse.
 
 <div class="grid cards" markdown>
 
--   **Curso destacado**{ .course-kicker }
+- **Curso destacado**{ .course-kicker }
 
     **FEniCSx/DOLFINx para mecánica computacional**
 
@@ -52,6 +52,23 @@ Construimos resultados que puedan revisarse, ejecutarse y extenderse.
     [Entrar al curso](https://mc-andes.github.io/fenicsx-course/){ .md-button .md-button--primary }
     [Código](https://github.com/MC-Andes/fenicsx-course){ .md-button }
     [Release v0.1.1](https://github.com/MC-Andes/fenicsx-course/releases/tag/v0.1.1){ .md-button }
+
+</div>
+
+## Proyecto de investigación
+
+<div class="grid cards" markdown>
+
+- **Cavitación · Basilisk–MPM**
+
+    ---
+
+    Del colapso de una burbuja a la respuesta de una pared. Un proyecto de
+    transferencia conservativa de cargas entre Basilisk y Kratos MPM, con
+    contratos HDF5 y ejemplos sintéticos de verificación.
+
+    [Conocer el proyecto](projects/cavitation-coupling.md){ .md-button .md-button--primary }
+    [Explorar el catálogo](projects.md){ .md-button }
 
 </div>
 
