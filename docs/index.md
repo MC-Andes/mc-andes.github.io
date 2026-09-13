@@ -1,27 +1,29 @@
 # Mecánica computacional abierta y reproducible
 
-**MC-Andes** organiza software, documentación y prácticas comunes para investigar
-y enseñar mecánica computacional en la Universidad de los Andes.
+**Investigación, software y formación**{ .course-kicker }
 
-Nuestro alcance incluye métodos numéricos, verificación, pre y post-proceso,
-geometría computacional y herramientas que convierten resultados científicos en
-trabajo reproducible.
+**MC-Andes** reúne herramientas, documentación y prácticas comunes para
+investigar y enseñar mecánica computacional en la Universidad de los Andes.
+Construimos resultados que puedan revisarse, ejecutarse y extenderse.
+
+[Explorar proyectos](projects.md){ .md-button .md-button--primary }
+[Comenzar un curso](courses.md){ .md-button }
 
 <div class="grid cards" markdown>
 
--   ⚙️ **Software verificable**
+-   **Software verificable**
 
     ---
 
     Plantillas con lint, pruebas, documentación y revisiones obligatorias.
 
--   🔬 **Investigación reproducible**
+-   **Investigación reproducible**
 
     ---
 
     Supuestos, datos, ejemplos y limitaciones documentados cerca del código.
 
--   🤝 **Colaboración sostenible**
+-   **Colaboración sostenible**
 
     ---
 
@@ -29,18 +31,20 @@ trabajo reproducible.
 
 </div>
 
-## Curso destacado
+## Aprende con MC-Andes
 
 <div class="grid cards" markdown>
 
--   ∫ **FEniCSx/DOLFINx para mecánica computacional**
+-   **Curso destacado**{ .course-kicker }
+
+    **FEniCSx/DOLFINx para mecánica computacional**
 
     ---
 
-    Curso abierto y autocontenido en español, desde variables, mallas y formas
-    débiles hasta elasticidad, Navier–Stokes, hiperelasticidad y Cahn–Hilliard.
-    Incluye doce módulos, trece ejemplos verificables, prácticas, soluciones y
-    ejecución serial/MPI con FEniCSx 0.11 y Python 3.12.
+    Curso abierto y autocontenido en español: comienza con forma débil y un
+    problema de Poisson; después abre rutas de calor, sólidos, fluidos y
+    multifísica. Incluye trece lecciones y ejemplos verificables con ejecución
+    serial/MPI en FEniCSx 0.11 y Python 3.12.
 
     No requiere inscripción, docente ni calificaciones: cada persona aprende y
     comprueba los resultados a su propio ritmo.
@@ -51,13 +55,15 @@ trabajo reproducible.
 
 </div>
 
-## Empieza aquí
+## Encuentra tu punto de entrada
 
-- Explora los [proyectos](projects.md).
-- Aprende con los [cursos autoguiados](courses.md).
-- Lee las [normas organizacionales](https://github.com/MC-Andes/standards).
-- Crea un proyecto con una de nuestras plantillas.
-- Consulta el [blog](blog/index.md) para decisiones y avances.
+| Si quieres… | Empieza en… |
+| --- | --- |
+| aprender una herramienta científica | [Cursos autoguiados](courses.md) |
+| reutilizar una base de software | [Proyectos y plantillas](projects.md) |
+| conocer decisiones y avances | [Blog](blog/index.md) |
+| proponer una mejora | [Guía para contribuir](contributing.md) |
+| consultar las reglas comunes | [Estándares organizacionales](https://github.com/MC-Andes/standards) |
 
 !!! info "Estado inicial"
     La organización está construyendo su base pública. Los repositorios plantilla
