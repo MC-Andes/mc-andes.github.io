@@ -20,7 +20,9 @@ theme:
 nav:
   - Inicio: index.md
   - Cursos: courses.md
-  - Proyectos: projects.md
+  - Proyectos:
+      - Catálogo: projects.md
+      - Cavitación · Basilisk–MPM: projects/cavitation-coupling.md
   - Publicaciones: publications.md
   - Blog: blog/index.md
   - Contribuir: contributing.md

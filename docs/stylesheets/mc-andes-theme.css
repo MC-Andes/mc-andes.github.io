@@ -47,6 +47,7 @@ input {
   font-weight: 500;
   line-height: 1.12;
   margin-bottom: 1rem;
+  text-wrap: balance;
 }
 
 .md-typeset h2 {
@@ -161,6 +162,7 @@ input {
 }
 
 .md-typeset .md-button {
+  margin: 0.25rem 0.3rem 0.5rem 0;
   border-color: var(--mc-green);
   border-radius: 3px;
   color: var(--mc-green);
