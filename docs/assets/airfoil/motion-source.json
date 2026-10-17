@@ -1,0 +1,11 @@
+{
+  "sourceFields": "results/cad_original/posterior/fields.mat",
+  "sourceFieldsSha256": "443c16f911d8f58efbee8ac2d9f2c7dbe6dd8c1a055145efc2103a524305b0c1",
+  "sourceDynamics": "results/cad_fsi/20261017T215523181/U_10/dynamic.mat",
+  "sourceDynamicsSha256": "9efa3c39d0241303a1cc6ac3e34d2c23428ec725c521f2aa6af168b3266ca0b5",
+  "columnsMotion": "physical time [s], upper-skin displacement relative to UVLM trim [micrometres] at each xi",
+  "columnsReference": "xi=x/c, material x [m], material z [m], UVLM trim displacement [micrometres]",
+  "samples": 241,
+  "eta": 0.49999999999999994,
+  "scope": "241 actual sampled states; no interpolated or imposed oscillation"
+}

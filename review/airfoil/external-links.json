@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "status": 200,
+    "resolved": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "url": "https://cris.vub.be/ws/portalfiles/portal/95005631/malim2023aero.pdf",
+    "status": 200,
+    "resolved": "https://cris.vub.be/ws/portalfiles/portal/95005631/malim2023aero.pdf"
+  },
+  {
+    "url": "https://data.mendeley.com/datasets/8jxw5533py/2",
+    "status": 200,
+    "resolved": "https://data.mendeley.com/datasets/8jxw5533py/2"
+  },
+  {
+    "url": "https://doi.org/10.1007/s40964-022-00285-8",
+    "status": 200,
+    "resolved": "https://link.springer.com/article/10.1007/s40964-022-00285-8?error=cookies_not_supported&code=c96f6e97-caa1-45e3-8949-52fb0fe64419"
+  },
+  {
+    "url": "https://doi.org/10.1016/S0021-9991(03)00310-3",
+    "status": 200,
+    "resolved": "https://linkinghub.elsevier.com/retrieve/pii/S0021999103003103"
+  },
+  {
+    "url": "https://github.com/MC-Andes",
+    "status": 200,
+    "resolved": "https://github.com/MC-Andes"
+  },
+  {
+    "url": "https://github.com/MC-Andes/passive-airfoil-aeroelasticity-matlab",
+    "status": 200,
+    "resolved": "https://github.com/MC-Andes/passive-airfoil-aeroelasticity-matlab"
+  },
+  {
+    "url": "https://github.com/MC-Andes/passive-airfoil-aeroelasticity-matlab/blob/28bb2fca284d31edb99968ddd7c75f83982774ef/cases/cad_original/assumptions.json",
+    "status": 200,
+    "resolved": "https://github.com/MC-Andes/passive-airfoil-aeroelasticity-matlab/blob/28bb2fca284d31edb99968ddd7c75f83982774ef/cases/cad_original/assumptions.json"
+  },
+  {
+    "url": "https://github.com/MC-Andes/passive-airfoil-aeroelasticity-matlab/blob/28bb2fca284d31edb99968ddd7c75f83982774ef/data/benchmarks/cad_literature.json",
+    "status": 200,
+    "resolved": "https://github.com/MC-Andes/passive-airfoil-aeroelasticity-matlab/blob/28bb2fca284d31edb99968ddd7c75f83982774ef/data/benchmarks/cad_literature.json"
+  },
+  {
+    "url": "https://github.com/MC-Andes/passive-airfoil-aeroelasticity-matlab/blob/28bb2fca284d31edb99968ddd7c75f83982774ef/data/benchmarks/huang2026_provenance.json",
+    "status": 200,
+    "resolved": "https://github.com/MC-Andes/passive-airfoil-aeroelasticity-matlab/blob/28bb2fca284d31edb99968ddd7c75f83982774ef/data/benchmarks/huang2026_provenance.json"
+  },
+  {
+    "url": "https://github.com/MC-Andes/passive-airfoil-aeroelasticity-matlab/blob/28bb2fca284d31edb99968ddd7c75f83982774ef/docs/cad-original-results.md",
+    "status": 200,
+    "resolved": "https://github.com/MC-Andes/passive-airfoil-aeroelasticity-matlab/blob/28bb2fca284d31edb99968ddd7c75f83982774ef/docs/cad-original-results.md"
+  },
+  {
+    "url": "https://github.com/MC-Andes/passive-airfoil-aeroelasticity-matlab/blob/28bb2fca284d31edb99968ddd7c75f83982774ef/docs/cad-original.md",
+    "status": 200,
+    "resolved": "https://github.com/MC-Andes/passive-airfoil-aeroelasticity-matlab/blob/28bb2fca284d31edb99968ddd7c75f83982774ef/docs/cad-original.md"
+  },
+  {
+    "url": "https://github.com/MC-Andes/passive-airfoil-aeroelasticity-matlab/blob/28bb2fca284d31edb99968ddd7c75f83982774ef/docs/index.md",
+    "status": 200,
+    "resolved": "https://github.com/MC-Andes/passive-airfoil-aeroelasticity-matlab/blob/28bb2fca284d31edb99968ddd7c75f83982774ef/docs/index.md"
+  },
+  {
+    "url": "https://github.com/MC-Andes/passive-airfoil-aeroelasticity-matlab/blob/28bb2fca284d31edb99968ddd7c75f83982774ef/docs/portal-publication.md",
+    "status": 200,
+    "resolved": "https://github.com/MC-Andes/passive-airfoil-aeroelasticity-matlab/blob/28bb2fca284d31edb99968ddd7c75f83982774ef/docs/portal-publication.md"
+  },
+  {
+    "url": "https://github.com/MC-Andes/passive-airfoil-aeroelasticity-matlab/pull/4",
+    "status": 200,
+    "resolved": "https://github.com/MC-Andes/passive-airfoil-aeroelasticity-matlab/pull/4"
+  },
+  {
+    "url": "https://joss.theoj.org/papers/10.21105/joss.01885",
+    "status": 200,
+    "resolved": "https://joss.theoj.org/papers/10.21105/joss.01885"
+  },
+  {
+    "url": "https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19930090935.pdf",
+    "status": 200,
+    "resolved": "https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19930090935.pdf"
+  },
+  {
+    "url": "https://squidfunk.github.io/mkdocs-material/",
+    "status": 200,
+    "resolved": "https://squidfunk.github.io/mkdocs-material/"
+  }
+]

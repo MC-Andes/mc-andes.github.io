@@ -10,6 +10,11 @@
 
 ### Added
 
+- Ficha científica de aeroelasticidad pasiva MATLAB, acceso desde portada,
+  catálogo y navegación; figuras, datos y video de campañas numéricas con
+  procedencia, licencias y distinción de verificación/validación.
+- Comprobación automática de la integración y los recursos de esta ficha.
+
 - Ficha de cavitación Basilisk–MPM con objetivo, componentes, alcance publicado
   y enlaces de documentación y código.
 - Acceso al proyecto desde la portada y el catálogo.

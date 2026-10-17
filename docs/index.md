@@ -55,7 +55,7 @@ Construimos resultados que puedan revisarse, ejecutarse y extenderse.
 
 </div>
 
-## Proyecto de investigación
+## Proyectos de investigación
 
 <div class="grid cards" markdown>
 
@@ -69,6 +69,19 @@ Construimos resultados que puedan revisarse, ejecutarse y extenderse.
 
     [Conocer el proyecto](projects/cavitation-coupling.md){ .md-button .md-button--primary }
     [Explorar el catálogo](projects.md){ .md-button }
+
+- **Aeroelasticidad pasiva · MATLAB**
+
+    ---
+
+    Deformación y vibración de un álabe fijo en aire, conservando el sólido
+    original. FEM, VLM/UVLM y Navier–Stokes laminar propios.
+
+    **Estado:** investigación en desarrollo; verificación numérica bajo
+    hipótesis explícitas, sin validación experimental del espécimen.
+
+    [Ver el proyecto](projects/passive-airfoil-aeroelasticity.md){ .md-button .md-button--primary }
+    [Código](https://github.com/MC-Andes/passive-airfoil-aeroelasticity-matlab){ .md-button }
 
 </div>
 
