@@ -25,8 +25,8 @@ nav:
       - Catálogo: projects.md
       - Corte de metales · MPM: projects/metal-cutting.md
       - Cavitación · Basilisk–MPM: projects/cavitation-coupling.md
-      - Delaunay Mesher: projects/delaunay-mesher.md
       - Aeroelasticidad pasiva · MATLAB: projects/passive-airfoil-aeroelasticity.md
+      - Delaunay Mesher: projects/delaunay-mesher.md
   - Publicaciones: publications.md
   - Blog: blog/index.md
   - Contribuir: contributing.md
