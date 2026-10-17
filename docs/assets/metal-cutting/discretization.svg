@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 400" role="img" aria-labelledby="title desc">
+<title id="title">Malla de fondo y dominios materiales compartidos</title><desc id="desc">Una malla cartesiana B-spline proporciona velocidades a vértices de cuadriláteros Q4. Cada cuadrilátero contiene cuatro puntos de integración con variables materiales.</desc>
+<rect width="760" height="400" fill="#faf9f7"/>
+<g stroke="#a8bdb6" stroke-width="1.5"><path d="M40 55H360M40 115H360M40 175H360M40 235H360M40 295H360M40 55V295M120 55V295M200 55V295M280 55V295M360 55V295"/></g>
+<g fill="#e8e4dd" fill-opacity=".7" stroke="#1a1a1a" stroke-width="2"><path d="M85 108L188 96L205 193L105 205Z"/><path d="M188 96L291 108L310 205L205 193Z"/></g>
+<g fill="#8b3a2f"><circle cx="123" cy="136" r="5"/><circle cx="168" cy="131" r="5"/><circle cx="130" cy="176" r="5"/><circle cx="174" cy="171" r="5"/><circle cx="227" cy="133" r="5"/><circle cx="272" cy="140" r="5"/><circle cx="233" cy="175" r="5"/><circle cx="280" cy="180" r="5"/></g>
+<g fill="#1a1a1a"><circle cx="85" cy="108" r="5"/><circle cx="188" cy="96" r="5"/><circle cx="205" cy="193" r="5"/><circle cx="105" cy="205" r="5"/><circle cx="291" cy="108" r="5"/><circle cx="310" cy="205" r="5"/></g>
+<g font-family="sans-serif" font-size="24" fill="#1a1a1a"><text x="440" y="100">Fondo B2</text><text x="487" y="142">↓</text><text x="413" y="190">Vértices Q4</text><text x="487" y="232">↓</text><text x="410" y="280">4 puntos / Q4</text><text x="40" y="350">h = 25 µm</text><text x="355" y="350">hₘ inicial = 6,25 µm</text></g>
+</svg>

@@ -22,6 +22,7 @@ nav:
   - Cursos: courses.md
   - Proyectos:
       - Catálogo: projects.md
+      - Corte de metales · MPM: projects/metal-cutting.md
       - Cavitación · Basilisk–MPM: projects/cavitation-coupling.md
   - Publicaciones: publications.md
   - Blog: blog/index.md

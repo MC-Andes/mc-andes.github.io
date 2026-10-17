@@ -8,6 +8,21 @@ el repositorio correspondiente.
 
 <div class="grid cards" markdown>
 
+- **Corte ortogonal de metales · MPM**
+
+    ---
+
+    Deformación plástica, contacto y calentamiento durante el avance de una
+    herramienta. Dominios materiales compartidos e integración explícita e
+    implícita para estudiar la formación de viruta.
+
+    **Estado:** desarrollo y verificación numérica; corte completo y
+    validación experimental pendientes.
+
+    [Ver el proyecto](projects/metal-cutting.md){ .md-button .md-button--primary }
+    [Código](https://github.com/MC-Andes/Metal_cutting){ .md-button }
+
+
 - **Cavitación · Basilisk–MPM**
 
     ---
