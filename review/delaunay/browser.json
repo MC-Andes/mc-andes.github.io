@@ -1,0 +1,46 @@
+{
+  "desktop": {
+    "title": "Delaunay Mesher · geometrías partícula–matriz - MC-Andes",
+    "canonical": "https://mc-andes.github.io/projects/delaunay-mesher/",
+    "description": "Generación reproducible de agregados 2D y 3D, control geométrico y preparación de mallas. Ejemplo público ejecutable, resultados medidos y límites de validación.",
+    "width": 1440,
+    "scrollWidth": 1440,
+    "images": [
+      {
+        "src": "../../assets/delaunay/geometria-2d.svg",
+        "alt": "Geometría 2D: 28 polígonos convexos de agregado, con contornos oscuros, dentro de una matriz rectangular de 100 por 200 milímetros.",
+        "complete": true
+      },
+      {
+        "src": "../../assets/delaunay/granulometria.svg",
+        "alt": "Comparación granulométrica: objetivo 5, 40, 35 y 20 por ciento; realización 0, 42,11, 36,84 y 21,05 por ciento, en intervalos de mayor a menor diámetro.",
+        "complete": true
+      }
+    ],
+    "h1": 1,
+    "errors": [],
+    "keyboardFocus": "<a href=\"#delaunay-mesher-de-los-agregados-a-una-geometria-verificable\" class=\"md-skip focus-visible\" data-focus-visible-added=\"\">\n          Saltar a contenido\n        </a>"
+  },
+  "mobile": {
+    "title": "Delaunay Mesher · geometrías partícula–matriz - MC-Andes",
+    "canonical": "https://mc-andes.github.io/projects/delaunay-mesher/",
+    "description": "Generación reproducible de agregados 2D y 3D, control geométrico y preparación de mallas. Ejemplo público ejecutable, resultados medidos y límites de validación.",
+    "width": 390,
+    "scrollWidth": 390,
+    "images": [
+      {
+        "src": "../../assets/delaunay/geometria-2d.svg",
+        "alt": "Geometría 2D: 28 polígonos convexos de agregado, con contornos oscuros, dentro de una matriz rectangular de 100 por 200 milímetros.",
+        "complete": true
+      },
+      {
+        "src": "../../assets/delaunay/granulometria.svg",
+        "alt": "Comparación granulométrica: objetivo 5, 40, 35 y 20 por ciento; realización 0, 42,11, 36,84 y 21,05 por ciento, en intervalos de mayor a menor diámetro.",
+        "complete": true
+      }
+    ],
+    "h1": 1,
+    "errors": [],
+    "keyboardFocus": "<a href=\"#delaunay-mesher-de-los-agregados-a-una-geometria-verificable\" class=\"md-skip focus-visible\" data-focus-visible-added=\"\">\n          Saltar a contenido\n        </a>"
+  }
+}

@@ -1,5 +1,11 @@
 # Changelog
 
+## Delaunay Mesher · ficha científica
+
+- Añade ficha individual, navegación y catálogo con ejemplo público reproducible,
+  figuras trazables y separación entre verificación geométrica y validación física.
+
+
 ## [Unreleased]
 
 ### Added

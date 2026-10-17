@@ -1,0 +1,10 @@
+{
+  "dimension": 2,
+  "edge_count": 214,
+  "element_count": 29,
+  "face_count": 0,
+  "max_boundary_value_error": 0.0,
+  "max_coordinate_error": 0.0,
+  "node_count": 214,
+  "valid": true
+}
