@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block extrahead %}
+  {{ super() }}
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Aeroelasticidad pasiva de un álabe · MC-Andes">
+  <meta property="og:description" content="{{ page.meta.description | e }}">
+  <meta property="og:url" content="{{ page.canonical_url }}">
+  <meta property="og:image" content="{{ config.site_url }}assets/airfoil/geometry.png">
+  <meta property="og:image:alt" content="Sección mallada del álabe original con cavidades y apoyo supuesto">
+  <meta name="twitter:card" content="summary_large_image">
+{% endblock %}

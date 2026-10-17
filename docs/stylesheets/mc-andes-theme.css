@@ -205,3 +205,33 @@ input {
     transition-duration: 0.01ms !important;
   }
 }
+
+/* Scientific figures used only by the airfoil project page. */
+.airfoil-figure {
+  margin: 1.6rem 0;
+}
+
+.airfoil-figure img,
+.airfoil-figure video {
+  display: block;
+  height: auto;
+  max-width: 100%;
+  width: 100%;
+}
+
+.airfoil-figure figcaption {
+  color: var(--mc-ink-light);
+  font-size: 0.78rem;
+  line-height: 1.55;
+  margin-top: 0.65rem;
+  text-align: left;
+}
+
+.airfoil-equation {
+  background: var(--mc-paper-2);
+  border-left: 3px solid var(--mc-green);
+  line-height: 1.7;
+  margin: 1rem 0;
+  overflow-wrap: anywhere;
+  padding: 0.8rem;
+}

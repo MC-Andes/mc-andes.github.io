@@ -1,0 +1,19 @@
+MC-Andes scientific publication assets — 2026-10-17
+
+Original numerical figures, sampled simulation data and silent video:
+Copyright (c) 2026 MC-Andes, MIT License.
+See https://github.com/MC-Andes/passive-airfoil-aeroelasticity-matlab/blob/main/LICENSE
+
+plate-comparison.png: derivative visualization of Huang, Ke and Zhang, Jiaying
+(2026), Experimental and numerical data from comparative analysis of candidate
+structural models for active camber morphing wings, Mendeley Data v2,
+https://doi.org/10.17632/8jxw5533py.2 , CC BY 4.0.
+License: https://creativecommons.org/licenses/by/4.0/
+Changes: nine geometry groups, first bending mode; published dimensionless mean
+and sample SD plotted with own nominal MITC4 calculation; no publisher figure
+copied. Published means/subset and geometry-label ambiguities are retained.
+See data/benchmarks/huang2026_provenance.json and THIRD_PARTY_NOTICES.md in the
+source repository for the exact extract, cells, hashes and statistical cautions.
+
+No third-party article figure, full workbook, original CAD or experimental video
+is redistributed. Other references are cited by links only.

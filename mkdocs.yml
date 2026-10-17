@@ -5,6 +5,7 @@ repo_url: https://github.com/MC-Andes
 repo_name: MC-Andes
 theme:
   name: material
+  custom_dir: overrides
   language: es
   features:
     - navigation.sections
@@ -23,6 +24,7 @@ nav:
   - Proyectos:
       - Catálogo: projects.md
       - Cavitación · Basilisk–MPM: projects/cavitation-coupling.md
+      - Aeroelasticidad pasiva · MATLAB: projects/passive-airfoil-aeroelasticity.md
   - Publicaciones: publications.md
   - Blog: blog/index.md
   - Contribuir: contributing.md

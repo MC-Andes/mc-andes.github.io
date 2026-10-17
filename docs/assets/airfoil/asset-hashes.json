@@ -1,0 +1,17 @@
+{
+  "LICENSE.txt": "99bbd96ab15c52aa5e998e52df05a86c7bd5083a8fa860e94cf55ecb47f39a4c",
+  "convergence.png": "8ed81abdfa39da9899093c4ee8461320876acf3bce7b90bf04de1de1b33d4b1f",
+  "evidence.json": "31bc464a8904f9c4e72803d176fbd256af143eb751e13b5d36f1cf290e7b735a",
+  "free-response.png": "d5c59c07020261bf1f506be55c0d6b692cc983d40a74f89b17934bab7e06e6d0",
+  "geometry.png": "ffa620c3fe4aa53f30bd1da2abeecb297cfc0c4254b6be943a0d99eb6bae9239",
+  "motion-poster.png": "5064027b49aa6dfe2600b7ba917efdcf2d8c4f027c85fa1946b90e5e747442e2",
+  "motion-source.json": "83e94bf99f391dae2e8c3a2dc4b78e073e9ff879c0e99af8eda6fc51ab0bc760",
+  "plate-comparison.png": "5cfef77b681ffe63448e358b5985dd3cbfd28bf6551050a59a228e35378f796c",
+  "posterior-motion.csv": "42e6118795ef31df42d2172f3270abc4dd1785179b49f3b66c1841b5458ad448",
+  "posterior-motion.mp4": "c1bd75448f101d915cbce952745a9b06fc7a7a56aeb269e155044f2f967f6903",
+  "posterior-reference.csv": "457a57379222f7234aa86bf1d922180996c106aec018dedf7e26439b2b94580d",
+  "structural-convergence.csv": "97f96c70d6997f2c120bfa6cca786035fd42226e62a64868dd930b6aaa55fecf",
+  "te-history.csv": "4dadbf1d52e0d9165deceb775e6c2bb2bee78f9537fe152bcf0282a98dc0df7a",
+  "viscous-wake.png": "8f3aff14017ca185ee0a89fdab8b71cc2df336ecc4296abdbd6f152555b67ff9",
+  "wake-sample.npz": "597bc3ec1fd291d0ded89ac87475f25b5efafe7975759520229fd07ec092f642"
+}
