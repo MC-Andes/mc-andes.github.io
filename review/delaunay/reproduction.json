@@ -1,0 +1,11 @@
+{
+  "pinned_numpy": "2.0.2",
+  "matching_files": {
+    "Input_nodos.txt": true,
+    "input_elements.txt": true,
+    "audit/sampled_inclusions.csv": true,
+    "audit/validation_report.json": true,
+    "audit/roundtrip_report.json": true,
+    "audit/resolved_config.json": true
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "files": {
+    "dimension": 2,
+    "element_phase_counts": {
+      "aggregate": 28,
+      "matrix": 1
+    },
+    "matrix_explicitly_described": true,
+    "problems": [],
+    "row_counts": {
+      "Input_nodos.txt": 214,
+      "input_elements.txt": 29
+    },
+    "valid": true
+  },
+  "geometry": {
+    "aggregate_fraction": 0.28500000000000003,
+    "aggregate_measure": 5700.000000000001,
+    "allowed_face_count_range": [
+      5,
+      10
+    ],
+    "allowed_maximum_aspect_ratio": 1.35,
+    "dimension": 2,
+    "domain_measure": 20000.0,
+    "elongated_count": 0,
+    "elongated_fraction": 0.0,
+    "expected_aggregate_fraction": 0.285,
+    "expected_elongated_fraction": 0.0,
+    "maximum_aspect_ratio": 1.3402892080398385,
+    "maximum_particle_face_count": 10,
+    "minimum_edge_length": 1.5029173749542917,
+    "minimum_face_area": null,
+    "minimum_face_equivalent_diameter": null,
+    "minimum_particle_face_count": 5,
+    "particle_count": 28,
+    "problems": [],
+    "valid": true
+  },
+  "topology": {
+    "aggregate_element_count": 28,
+    "dimension": 2,
+    "domain_measure": 20000.0,
+    "edge_count": 214,
+    "element_count": 29,
+    "face_count": 0,
+    "interface_edge_count": 210,
+    "interface_face_count": 0,
+    "matrix_element_count": 1,
+    "node_count": 214,
+    "problems": [],
+    "profile": "single_matrix",
+    "reconstructed_measure": 20000.0,
+    "reconstruction_absolute_error": 0.0,
+    "tolerance": 1e-09,
+    "valid": true
+  },
+  "valid": true
+}

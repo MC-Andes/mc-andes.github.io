@@ -29,8 +29,10 @@ el repositorio correspondiente.
     Generación reproducible de geometrías y mallas partícula–matriz para
     mecánica computacional.
 
-    El repositorio reúne las instrucciones y el alcance de la herramienta.
+    **Estado:** desarrollo y verificación geométrica; validación experimental
+    pendiente. Incluye un ejemplo público reproducible y sus limitaciones.
 
+    [Ver el proyecto](projects/delaunay-mesher.md){ .md-button .md-button--primary }
     [Código y documentación](https://github.com/MC-Andes/Delaunay_mesher){ .md-button }
 
 </div>
