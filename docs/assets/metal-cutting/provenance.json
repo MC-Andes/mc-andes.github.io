@@ -1,0 +1,276 @@
+{
+  "schema": "metal-cutting-portal-media-v1",
+  "accepted": false,
+  "origin": "Historical 25-state prefix of shared-material-domain MPM, V7",
+  "formulation": "MPM_shared_domain_B2_four_persistent_GP_v1",
+  "source_sha256": "3bcccf4fb6b6d10153f68e238c2c771ff8df0bb5065d7522404427a4d714a22a",
+  "case": {
+    "name": "Ck45 bibliographic material approximation",
+    "sha256": "2846a9e5f8664034502af32e681167433af4b3f99c29102d5cb388efa182987b",
+    "tool_speed_m_s": 0.4166666666666667,
+    "background_spacing_m": 2.5e-05,
+    "material_spacing_m": 6.25e-06
+  },
+  "inputs": {
+    "initial.npz": {
+      "sha256": "10f6d7d731e793662525868dd220fe7abbd4900204a8b4e7c890626c032ad343",
+      "bytes": 552609,
+      "time_s": 0.0
+    },
+    "state_00001.npz": {
+      "sha256": "601e1ff8a651518f4d5fdcf28aa1298e7da6b7f2830f750c121ef7edbe47d0d7",
+      "bytes": 12497735,
+      "time_s": 2.4e-06
+    },
+    "state_00002.npz": {
+      "sha256": "716275a89fd15b2ddfe687b4fc07e113ec7983fcde7b46303edf17ae173454a9",
+      "bytes": 12589828,
+      "time_s": 4.8e-06
+    },
+    "state_00003.npz": {
+      "sha256": "e713d9d2e126bd7e517e0da9f332c3eefc95fdc9f5b8c7e6b29adbb529eea9eb",
+      "bytes": 12694335,
+      "time_s": 7.2e-06
+    },
+    "state_00004.npz": {
+      "sha256": "960f26bae28282e8b2823eeaed312d2ad95372c4f62d035ef3c2f403a61744db",
+      "bytes": 12739309,
+      "time_s": 9.6e-06
+    },
+    "state_00005.npz": {
+      "sha256": "ea5ffeb75921f45e7addbbba4a4c40c14ec0f67bd3880fef35a476fb6a29bc74",
+      "bytes": 12772197,
+      "time_s": 1.2e-05
+    },
+    "state_00006.npz": {
+      "sha256": "3792644e82c654bcf5a846a7709f8f10094ceeedbd9075cb47e766f54cb7610c",
+      "bytes": 12809668,
+      "time_s": 1.44e-05
+    },
+    "state_00007.npz": {
+      "sha256": "03dbad15e557bfff1339b3a75d1e089709c05d678d5a5a22ea97ee3323dee43d",
+      "bytes": 12816420,
+      "time_s": 1.68e-05
+    },
+    "state_00008.npz": {
+      "sha256": "9bd18b95ace5dc2af4f0c33aacb76a5c71d6237c0ba4bee1ea246da64ab049bb",
+      "bytes": 12929481,
+      "time_s": 1.92e-05
+    },
+    "state_00009.npz": {
+      "sha256": "cd68d89cd5b422026f40b40cbf73141d816053588e696365596f34fd5a3bec4e",
+      "bytes": 12980938,
+      "time_s": 2.16e-05
+    },
+    "state_00010.npz": {
+      "sha256": "def1ba399189f6ee2703d82311d26e5d7a3bccdc3aabe416d2d8db6024ddd07f",
+      "bytes": 13058981,
+      "time_s": 2.4e-05
+    },
+    "state_00011.npz": {
+      "sha256": "95c0726ac904a3b9314f346641995b0eaeee75460ac7392d2be659e760fcf386",
+      "bytes": 13157873,
+      "time_s": 2.6399999999999998e-05
+    },
+    "state_00012.npz": {
+      "sha256": "a19c719c275c2ed92d70ac66997da32e7f51ea0dbedc5960798c7a9c00b0bef0",
+      "bytes": 13305236,
+      "time_s": 2.88e-05
+    },
+    "state_00013.npz": {
+      "sha256": "0668c86de3f84c1d3fe08e5140a88f0144a198f59d11666b2137602b7c95d4f0",
+      "bytes": 13378479,
+      "time_s": 3.12e-05
+    },
+    "state_00014.npz": {
+      "sha256": "5e0edb5bd1cc7ab685bb2bde4faede483bf0cc84469caeb33f9f2eb872ccf92d",
+      "bytes": 13448770,
+      "time_s": 3.36e-05
+    },
+    "state_00015.npz": {
+      "sha256": "f53652e5208b4b42e573add37f3eddd1f012cf472fc0674603a7060653388f17",
+      "bytes": 13501923,
+      "time_s": 3.6e-05
+    },
+    "state_00016.npz": {
+      "sha256": "c308240c99cef088d85da4c665c4c3e9aeb5022a2f2fe46f1bb4e4563cefca74",
+      "bytes": 13612368,
+      "time_s": 3.84e-05
+    },
+    "state_00017.npz": {
+      "sha256": "94a6eabdb2dc7ca5f627b424ca49868acb01b56a5277ab0faa9eef9b1a7067e5",
+      "bytes": 13658872,
+      "time_s": 4.0799999999999996e-05
+    },
+    "state_00018.npz": {
+      "sha256": "5cbbacffde444e71f32fd7a49c31ca48258d0c31809e8d6cc08a5e2ccf641500",
+      "bytes": 13756512,
+      "time_s": 4.32e-05
+    },
+    "state_00019.npz": {
+      "sha256": "d09c23550d837edcf8ac44ed21b38c37330551db2b49163899f9175c77b130cd",
+      "bytes": 13825748,
+      "time_s": 4.56e-05
+    },
+    "state_00020.npz": {
+      "sha256": "037f499e5acf7ec45ab2e3f002c1faa3889996a558d4ac4c6873d56f12d8fb45",
+      "bytes": 13900187,
+      "time_s": 4.8e-05
+    },
+    "state_00021.npz": {
+      "sha256": "f261bcce6ab9c5181d0fe0643f3521c0d44f02a91c95c0906d622a9f850655ef",
+      "bytes": 14026320,
+      "time_s": 5.04e-05
+    },
+    "state_00022.npz": {
+      "sha256": "07a509987ac08f897568682f5d98270ce4196eefcfe5c8d7f12ea79a8bc59b9e",
+      "bytes": 14063213,
+      "time_s": 5.2799999999999996e-05
+    },
+    "state_00023.npz": {
+      "sha256": "961c614dea90324cf6710320e04aa37ccc17857e5a224d035ac1a81c6b29036a",
+      "bytes": 14153471,
+      "time_s": 5.52e-05
+    },
+    "state_00024.npz": {
+      "sha256": "92316a1f03f4e689994e2b1b4fba6fdb546987e96b30bf29ca95c6d2cd8fe09a",
+      "bytes": 14247276,
+      "time_s": 5.76e-05
+    }
+  },
+  "npz_data_published": false,
+  "archived_solver_sources_published": false,
+  "frame_count": 25,
+  "frame_times_s": [
+    0.0,
+    2.4e-06,
+    4.8e-06,
+    7.2e-06,
+    9.6e-06,
+    1.2e-05,
+    1.44e-05,
+    1.68e-05,
+    1.92e-05,
+    2.16e-05,
+    2.4e-05,
+    2.6399999999999998e-05,
+    2.88e-05,
+    3.12e-05,
+    3.36e-05,
+    3.6e-05,
+    3.84e-05,
+    4.0799999999999996e-05,
+    4.32e-05,
+    4.56e-05,
+    4.8e-05,
+    5.04e-05,
+    5.2799999999999996e-05,
+    5.52e-05,
+    5.76e-05
+  ],
+  "physical_time_interval_s": [
+    0.0,
+    5.76e-05
+  ],
+  "advance_interval_m": [
+    0.0,
+    2.4e-05
+  ],
+  "frames_per_second": 3,
+  "playback_duration_s": 8.333333333333334,
+  "temporal_interpolation": false,
+  "geometry_interpolation_or_repair": false,
+  "geometry": "Actual q/cells; equal-axis plot; original rounded-tool geometry",
+  "field_display": "Arithmetic mean of four persistent Gauss points per material domain",
+  "plot_limits_um": {
+    "x": [
+      -50.0,
+      300.0
+    ],
+    "y": [
+      350.0,
+      740.0
+    ]
+  },
+  "fields": {
+    "plasticity": {
+      "field": "alpha",
+      "unit": "1",
+      "colormap": "viridis",
+      "color_limits": [
+        0.0,
+        0.35648069830390194
+      ],
+      "decoded_successfully": true,
+      "poster_state": "state_00024.npz"
+    },
+    "temperature": {
+      "field": "T",
+      "unit": "K",
+      "colormap": "inferno",
+      "color_limits": [
+        293.1499999999598,
+        345.8981870676319
+      ],
+      "decoded_successfully": true,
+      "poster_state": "state_00024.npz"
+    }
+  },
+  "layout": {
+    "scientific_region_px": [
+      0,
+      0,
+      768,
+      768
+    ],
+    "bottom_white_control_margin_px": 160,
+    "note": "Blank margin reserved for native video controls; no field or geometry is cropped."
+  },
+  "limitations": [
+    "Diagnostic prefix only; no accepted developed chip or completed 500 micrometre cut.",
+    "No experimental validation or calibration is claimed.",
+    "Cell-mean colours are not pointwise maxima and conceal intra-cell variation.",
+    "Playback time differs from physical time; chronology is specified in frame_times_s.",
+    "Titles and timestamps are intentionally outside the videos; accompanying captions must retain this scope.",
+    "The source NPZ data and solver archive are not published with these derived visualisations."
+  ],
+  "encoding": {
+    "codec": "H.264/libx264",
+    "pixel_format": "yuv420p",
+    "crf": 22,
+    "preset": "slow",
+    "faststart": true,
+    "width": 768,
+    "height": 928,
+    "audio": false,
+    "ffmpeg_binary_sha256": "6d175a4743ca50256e89a8cdd731100f9cee33bd79aeea46894d209410dc6617",
+    "ffmpeg_version": "ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers"
+  },
+  "renderer": {
+    "file": "render_metal_cutting_media.py",
+    "sha256": "dab63b8ddb765662cee50d16c44ae23e3307fb34f0f37d7d9c6b2b6ce88e5a6a",
+    "python": "3.12.14",
+    "numpy": "2.5.2",
+    "matplotlib": "3.11.1",
+    "imageio_ffmpeg": "0.6.0",
+    "command": "python scripts/render_metal_cutting_media.py SOURCE_DIRECTORY OUTPUT_DIRECTORY"
+  },
+  "files": {
+    "plasticity.mp4": {
+      "bytes": 86001,
+      "sha256": "26fd839e39dd05aa9c0ea6ba5d74ff20ee3f0690514d3972234fdcd1356d5544"
+    },
+    "temperature.mp4": {
+      "bytes": 86087,
+      "sha256": "daa90b01dbd5c1df3024a66c1009c600d6e98c412cc09dc14d39a9e89d7fb633"
+    },
+    "plasticity.png": {
+      "bytes": 57491,
+      "sha256": "0ab84faf7342aa3ee63efce4665d472170ab960a467af11d8f05bd9cc708dbea"
+    },
+    "temperature.png": {
+      "bytes": 52070,
+      "sha256": "94908864ee4c5efe39cb030869e575d6216ec7c7caa9c967a5d0fc91ec0d0dd4"
+    }
+  }
+}

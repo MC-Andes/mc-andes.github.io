@@ -1,0 +1,82 @@
+{
+  "desktop": {
+    "title": "Corte ortogonal de metales mediante MPM - MC-Andes",
+    "canonical": "https://mc-andes.github.io/projects/metal-cutting/",
+    "description": "Modelo termomecánico de corte con dominios materiales compartidos. Formulación, ejecución reproducible y resultados preliminares; validación experimental pendiente.",
+    "overflow": false,
+    "images": [
+      {
+        "src": "../../assets/metal-cutting/geometry.svg",
+        "ok": true,
+        "alt": true
+      },
+      {
+        "src": "../../assets/metal-cutting/discretization.svg",
+        "ok": true,
+        "alt": true
+      }
+    ],
+    "videos": [
+      {
+        "src": "http://127.0.0.1:8765/assets/metal-cutting/plasticity.mp4",
+        "width": 768,
+        "duration": 8.333333,
+        "controls": true,
+        "muted": true,
+        "autoplay": false
+      },
+      {
+        "src": "http://127.0.0.1:8765/assets/metal-cutting/temperature.mp4",
+        "width": 768,
+        "duration": 8.333333,
+        "controls": true,
+        "muted": true,
+        "autoplay": false
+      }
+    ],
+    "math": 4,
+    "catalogNavigates": true,
+    "keyboardFocus": "A",
+    "errors": []
+  },
+  "mobile": {
+    "title": "Corte ortogonal de metales mediante MPM - MC-Andes",
+    "canonical": "https://mc-andes.github.io/projects/metal-cutting/",
+    "description": "Modelo termomecánico de corte con dominios materiales compartidos. Formulación, ejecución reproducible y resultados preliminares; validación experimental pendiente.",
+    "overflow": false,
+    "images": [
+      {
+        "src": "../../assets/metal-cutting/geometry.svg",
+        "ok": true,
+        "alt": true
+      },
+      {
+        "src": "../../assets/metal-cutting/discretization.svg",
+        "ok": true,
+        "alt": true
+      }
+    ],
+    "videos": [
+      {
+        "src": "http://127.0.0.1:8765/assets/metal-cutting/plasticity.mp4",
+        "width": 768,
+        "duration": 8.333333,
+        "controls": true,
+        "muted": true,
+        "autoplay": false
+      },
+      {
+        "src": "http://127.0.0.1:8765/assets/metal-cutting/temperature.mp4",
+        "width": 768,
+        "duration": 8.333333,
+        "controls": true,
+        "muted": true,
+        "autoplay": false
+      }
+    ],
+    "math": 4,
+    "catalogNavigates": true,
+    "keyboardFocus": "A",
+    "errors": []
+  }
+}
