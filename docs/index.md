@@ -59,6 +59,19 @@ Construimos resultados que puedan revisarse, ejecutarse y extenderse.
 
 <div class="grid cards" markdown>
 
+- **Corte ortogonal de metales · MPM**
+
+    ---
+
+    Deformación plástica, contacto y calentamiento durante el avance de una
+    herramienta. Un modelo termomecánico para estudiar la formación de viruta.
+
+    **Estado:** desarrollo y verificación numérica; corte completo y validación
+    experimental pendientes.
+
+    [Ver el proyecto](projects/metal-cutting.md){ .md-button .md-button--primary }
+    [Código](https://github.com/MC-Andes/Metal_cutting){ .md-button }
+
 - **Cavitación · Basilisk–MPM**
 
     ---
@@ -67,8 +80,11 @@ Construimos resultados que puedan revisarse, ejecutarse y extenderse.
     transferencia conservativa de cargas entre Basilisk y Kratos MPM, con
     contratos HDF5 y ejemplos sintéticos de verificación.
 
-    [Conocer el proyecto](projects/cavitation-coupling.md){ .md-button .md-button--primary }
-    [Explorar el catálogo](projects.md){ .md-button }
+    **Estado:** investigación en desarrollo; paquete público con ejemplos
+    sintéticos de verificación.
+
+    [Ver el proyecto](projects/cavitation-coupling.md){ .md-button .md-button--primary }
+    [Código](https://github.com/MC-Andes/cavitation-coupling){ .md-button }
 
 - **Aeroelasticidad pasiva · MATLAB**
 
@@ -83,7 +99,22 @@ Construimos resultados que puedan revisarse, ejecutarse y extenderse.
     [Ver el proyecto](projects/passive-airfoil-aeroelasticity.md){ .md-button .md-button--primary }
     [Código](https://github.com/MC-Andes/passive-airfoil-aeroelasticity-matlab){ .md-button }
 
+- **Delaunay Mesher**
+
+    ---
+
+    Generación reproducible de geometrías y mallas partícula–matriz para
+    mecánica computacional, con un ejemplo público y comprobaciones geométricas.
+
+    **Estado:** desarrollo y verificación geométrica; validación experimental
+    pendiente.
+
+    [Ver el proyecto](projects/delaunay-mesher.md){ .md-button .md-button--primary }
+    [Código](https://github.com/MC-Andes/Delaunay_mesher){ .md-button }
+
 </div>
+
+[Explorar el catálogo completo](projects.md){ .md-button }
 
 ## Encuentra tu punto de entrada
 
@@ -95,6 +126,7 @@ Construimos resultados que puedan revisarse, ejecutarse y extenderse.
 | proponer una mejora | [Guía para contribuir](contributing.md) |
 | consultar las reglas comunes | [Estándares organizacionales](https://github.com/MC-Andes/standards) |
 
-!!! info "Estado inicial"
-    La organización está construyendo su base pública. Los repositorios plantilla
-    son puntos de partida: cada proyecto debe reemplazar ejemplos y metadatos.
+!!! info "Cómo leer el catálogo"
+    Cada ficha distingue entre desarrollo, verificación y validación. Los
+    resultados preliminares se presentan con sus supuestos, procedencia y
+    limitaciones, sin tratarlos como evidencia experimental validada.

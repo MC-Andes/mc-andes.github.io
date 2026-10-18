@@ -26,6 +26,8 @@
 
 ### Changed
 
+- La portada muestra los cuatro proyectos de investigación publicados, con
+  estado, enlace a su ficha individual y acceso al repositorio correspondiente.
 - Presentación alineada con la identidad visual vigente del portal MC-Andes.
 - Catálogo organizado en investigación, formación e infraestructura compartida.
   Se conservan las rutas existentes del sitio y el curso destacado.
