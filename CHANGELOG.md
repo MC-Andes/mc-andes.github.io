@@ -1,8 +1,24 @@
 # Changelog
 
+## Delaunay Mesher · ficha científica
+
+- Añade ficha individual, navegación y catálogo con ejemplo público reproducible,
+  figuras trazables y separación entre verificación geométrica y validación física.
+
+
 ## [Unreleased]
 
 ### Added
+
+- Ficha científica de aeroelasticidad pasiva MATLAB, acceso desde portada,
+  catálogo y navegación; figuras, datos y video de campañas numéricas con
+  procedencia, licencias y distinción de verificación/validación.
+- Comprobación automática de la integración y los recursos de esta ficha.
+- Ficha de corte ortogonal con MPM: fundamento físico, formulación,
+  reproducción, referencias primarias y límites de la evidencia pública.
+- Acceso a Metal_cutting desde el catálogo y la navegación de proyectos.
+- Esquemas originales de geometría y discretización, y revisión de enlaces
+  internos del sitio construido.
 
 - Ficha de cavitación Basilisk–MPM con objetivo, componentes, alcance publicado
   y enlaces de documentación y código.

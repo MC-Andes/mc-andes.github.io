@@ -1,0 +1,31 @@
+{
+  "project_commit": "04d3d362677397aeb290d77cb2a9d02959fd44c8",
+  "case": "CA1_A2_G1_R01",
+  "source": "public main example, not PI192-v3",
+  "seed": 7259952857075019525,
+  "particle_count": 28,
+  "aggregate_area_mm2": 5699.999999999989,
+  "aggregate_fraction": 0.2849999999999995,
+  "target_fraction": 0.3,
+  "gradation_target_percent": [
+    5.0,
+    40.0,
+    35.0,
+    20.0
+  ],
+  "gradation_measured_percent": [
+    0.0,
+    42.10526315789478,
+    36.84210526315784,
+    21.05263157894737
+  ],
+  "hashes": {
+    "Input_nodos.txt": "c7e2e5b6764f93054d38d0a27042571363e83260b85cbb135ff380b640a401ed",
+    "input_elements.txt": "94e258e6b65d6b4413c80a9b649758819dc93d76cd4f4befc469836e898d8dc2",
+    "audit/sampled_inclusions.csv": "3bb71d695e1cd1a113ceb49961a85d56d9b439904b002eba2b9fdd0d2f79631f",
+    "audit/validation_report.json": "3c8a2c94b5075fd9fb91366af71def766d9530d790f34b103238c47af6cf3f60",
+    "audit/roundtrip_report.json": "b7a1e58c7b96c409cf0f9aecff573a5b07c98445ed3c7d364b050b7eef434984",
+    "audit/resolved_config.json": "de74e29a401b52bf0170bf6e36c8e402958d0286d63d42f4863d1b15a82f2736"
+  },
+  "figure_source": "Original figures rendered from the exported polygons; no external artwork."
+}

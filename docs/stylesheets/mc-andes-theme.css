@@ -205,3 +205,55 @@ input {
     transition-duration: 0.01ms !important;
   }
 }
+
+/* Scientific figures used only by the airfoil project page. */
+.airfoil-figure {
+  margin: 1.6rem 0;
+}
+
+.airfoil-figure img,
+.airfoil-figure video {
+  display: block;
+  height: auto;
+  max-width: 100%;
+  width: 100%;
+}
+
+.airfoil-figure figcaption {
+  color: var(--mc-ink-light);
+  font-size: 0.78rem;
+  line-height: 1.55;
+  margin-top: 0.65rem;
+  text-align: left;
+}
+
+.airfoil-equation {
+  background: var(--mc-paper-2);
+  border-left: 3px solid var(--mc-green);
+  line-height: 1.7;
+  margin: 1rem 0;
+  overflow-wrap: anywhere;
+  padding: 0.8rem;
+}
+
+/* Scoped to the equations and scientific media of the cutting project. */
+.cutting-equation {
+  background: var(--mc-paper-2);
+  border-left: 3px solid var(--mc-green);
+  margin: 1rem 0;
+  overflow-x: auto;
+  padding: 0.8rem;
+  font-family: Georgia, serif;
+  line-height: 1.8;
+}
+.cutting-media-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+.cutting-media-grid figure { margin: 0; min-width: 0; }
+.cutting-media-grid video { width: 100%; height: auto; display: block; }
+.cutting-media-grid figcaption { margin-top: 0.5rem; font-size: 0.8rem; }
+@media screen and (max-width: 44.984375em) {
+  .cutting-media-grid { grid-template-columns: 1fr; }
+}

@@ -5,6 +5,7 @@ repo_url: https://github.com/MC-Andes
 repo_name: MC-Andes
 theme:
   name: material
+  custom_dir: overrides
   language: es
   features:
     - navigation.sections
@@ -22,7 +23,10 @@ nav:
   - Cursos: courses.md
   - Proyectos:
       - Catálogo: projects.md
+      - Corte de metales · MPM: projects/metal-cutting.md
       - Cavitación · Basilisk–MPM: projects/cavitation-coupling.md
+      - Aeroelasticidad pasiva · MATLAB: projects/passive-airfoil-aeroelasticity.md
+      - Delaunay Mesher: projects/delaunay-mesher.md
   - Publicaciones: publications.md
   - Blog: blog/index.md
   - Contribuir: contributing.md

@@ -1,0 +1,305 @@
+{
+  "boundary_conditions": {
+    "default": {
+      "x": {
+        "type": 2,
+        "value": 0.0
+      },
+      "y": {
+        "type": 2,
+        "value": 0.0
+      }
+    },
+    "natural_mode": "nodal",
+    "regions": []
+  },
+  "box": {
+    "Lx": 100.0,
+    "Ly": 200.0
+  },
+  "case": {
+    "case_id": "CA1_A2_G1_R01",
+    "coarse_aggregate_code": "CA1",
+    "elongated_code": "A2",
+    "gradation_code": "G1",
+    "replicate": 1,
+    "scenario_id": "S1",
+    "seed": 7259952857075019525
+  },
+  "coarse_aggregate": {
+    "CA1": 0.3,
+    "CA2": 0.4,
+    "CA3": 0.5,
+    "CA4": 0.6
+  },
+  "decisions": {
+    "D1": "not_applicable_for_2d",
+    "D10": "normalize_fourth_rows_to_G4",
+    "D11": "72_cases_per_selected_dimension",
+    "D12": "best_discrete",
+    "D2": "disabled_no_elongated_particles",
+    "D3": 1.35,
+    "D4": "equivalent_diameter_mm",
+    "D5": "single_matrix",
+    "D6": "node_id_0_loop_separator",
+    "D7": "signed_edge_and_face_ids_exported",
+    "D8": "nodal",
+    "D9": "provisional_all_dofs_natural_zero"
+  },
+  "dimension": 2,
+  "elongated_particles": {
+    "A1": 0.0,
+    "A2": 0.0,
+    "A3": 0.0,
+    "aspect_ratio_range": [
+      3.05,
+      4.0
+    ],
+    "basis": "particle_count",
+    "definition": "L_over_D",
+    "enabled": false,
+    "threshold": 3.0
+  },
+  "gradations": {
+    "G1": [
+      {
+        "fraction": 0.05,
+        "maximum_diameter": 63.0,
+        "minimum_diameter": 50.0
+      },
+      {
+        "fraction": 0.4,
+        "maximum_diameter": 50.0,
+        "minimum_diameter": 25.0
+      },
+      {
+        "fraction": 0.35,
+        "maximum_diameter": 25.0,
+        "minimum_diameter": 12.5
+      },
+      {
+        "fraction": 0.2,
+        "maximum_diameter": 12.5,
+        "minimum_diameter": 4.75
+      }
+    ],
+    "G2": [
+      {
+        "fraction": 0.05,
+        "maximum_diameter": 50.0,
+        "minimum_diameter": 37.5
+      },
+      {
+        "fraction": 0.4,
+        "maximum_diameter": 37.5,
+        "minimum_diameter": 19.0
+      },
+      {
+        "fraction": 0.35,
+        "maximum_diameter": 19.0,
+        "minimum_diameter": 9.5
+      },
+      {
+        "fraction": 0.2,
+        "maximum_diameter": 9.5,
+        "minimum_diameter": 4.75
+      }
+    ],
+    "G3": [
+      {
+        "fraction": 0.05,
+        "maximum_diameter": 37.5,
+        "minimum_diameter": 25.0
+      },
+      {
+        "fraction": 0.35,
+        "maximum_diameter": 25.0,
+        "minimum_diameter": 19.0
+      },
+      {
+        "fraction": 0.35,
+        "maximum_diameter": 19.0,
+        "minimum_diameter": 12.5
+      },
+      {
+        "fraction": 0.18,
+        "maximum_diameter": 12.5,
+        "minimum_diameter": 9.5
+      },
+      {
+        "fraction": 0.07,
+        "maximum_diameter": 9.5,
+        "minimum_diameter": 4.75
+      }
+    ],
+    "G4": [
+      {
+        "fraction": 0.05,
+        "maximum_diameter": 25.0,
+        "minimum_diameter": 19.0
+      },
+      {
+        "fraction": 0.55,
+        "maximum_diameter": 19.0,
+        "minimum_diameter": 12.5
+      },
+      {
+        "fraction": 0.23,
+        "maximum_diameter": 12.5,
+        "minimum_diameter": 9.5
+      },
+      {
+        "fraction": 0.17,
+        "maximum_diameter": 9.5,
+        "minimum_diameter": 4.75
+      }
+    ]
+  },
+  "master_seed": 20260824,
+  "materials": {
+    "aggregate": {
+      "E": 162000.0,
+      "E_unit": "MPa",
+      "nu": 0.17,
+      "source_E": 162.0,
+      "source_unit": "GPa"
+    },
+    "matrix": {
+      "E": 35000.0,
+      "E_unit": "MPa",
+      "nu": 0.16,
+      "source_E": 35.0,
+      "source_unit": "GPa"
+    }
+  },
+  "placement": {
+    "backend": "legacy_growth",
+    "clearance": 0.0,
+    "max_attempts_per_particle": 2000,
+    "max_restarts": 20,
+    "relaxation_steps": 200,
+    "tolerance": 1e-09
+  },
+  "replicates": 3,
+  "sample_report": {
+    "achieved_elongated_fraction": 0.0,
+    "achieved_measure": 5700.0,
+    "bin_reports": [
+      {
+        "absolute_error": 300.0,
+        "achieved_measure": 0.0,
+        "class_id": 1,
+        "count": 0,
+        "exact_discrete_feasible": false,
+        "feasible_count_maximum": 0,
+        "feasible_count_minimum": 1,
+        "fraction": 0.05,
+        "maximum_diameter": 63.0,
+        "minimum_diameter": 50.0,
+        "size_bin": "50-63",
+        "target_measure": 300.0
+      },
+      {
+        "absolute_error": 0.0,
+        "achieved_measure": 2400.0,
+        "class_id": 2,
+        "count": 2,
+        "exact_discrete_feasible": true,
+        "feasible_count_maximum": 4,
+        "feasible_count_minimum": 2,
+        "fraction": 0.4,
+        "maximum_diameter": 50.0,
+        "minimum_diameter": 25.0,
+        "size_bin": "25-50",
+        "target_measure": 2400.0
+      },
+      {
+        "absolute_error": 0.0,
+        "achieved_measure": 2100.0,
+        "class_id": 3,
+        "count": 7,
+        "exact_discrete_feasible": true,
+        "feasible_count_maximum": 17,
+        "feasible_count_minimum": 5,
+        "fraction": 0.35,
+        "maximum_diameter": 25.0,
+        "minimum_diameter": 12.5,
+        "size_bin": "12.5-25",
+        "target_measure": 2100.0
+      },
+      {
+        "absolute_error": 0.0,
+        "achieved_measure": 1200.0,
+        "class_id": 4,
+        "count": 19,
+        "exact_discrete_feasible": true,
+        "feasible_count_maximum": 67,
+        "feasible_count_minimum": 10,
+        "fraction": 0.2,
+        "maximum_diameter": 12.5,
+        "minimum_diameter": 4.75,
+        "size_bin": "4.75-12.5",
+        "target_measure": 1200.0
+      }
+    ],
+    "case_id": "CA1_A2_G1_R01",
+    "dimension": 2,
+    "gradation_normalized_absolute_error": 0.05,
+    "policy": "best_discrete",
+    "relative_error": 0.05,
+    "target_elongated_fraction": 0.0,
+    "target_measure": 6000.0
+  },
+  "sampling_policy": "best_discrete",
+  "sampling_tolerance": 0.05,
+  "scenarios": [
+    {
+      "coarse_aggregate": "CA1",
+      "elongated_particles": "A2",
+      "scenario_id": "S1"
+    },
+    {
+      "coarse_aggregate": "CA2",
+      "elongated_particles": "A2",
+      "scenario_id": "S2"
+    },
+    {
+      "coarse_aggregate": "CA3",
+      "elongated_particles": "A2",
+      "scenario_id": "S3"
+    },
+    {
+      "coarse_aggregate": "CA4",
+      "elongated_particles": "A2",
+      "scenario_id": "S4"
+    },
+    {
+      "coarse_aggregate": "CA4",
+      "elongated_particles": "A1",
+      "scenario_id": "S5"
+    },
+    {
+      "coarse_aggregate": "CA4",
+      "elongated_particles": "A3",
+      "scenario_id": "S6"
+    }
+  ],
+  "shape_generation": {
+    "face_count_range": [
+      5,
+      10
+    ],
+    "minimum_feature_size": 1e-06,
+    "radial_jitter": 0.08,
+    "regular_aspect_ratio_range": [
+      1.0,
+      1.35
+    ]
+  },
+  "topology_profile": "single_matrix",
+  "units": {
+    "force": "N",
+    "length": "mm",
+    "stress": "MPa"
+  }
+}

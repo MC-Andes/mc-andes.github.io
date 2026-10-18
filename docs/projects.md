@@ -8,6 +8,21 @@ el repositorio correspondiente.
 
 <div class="grid cards" markdown>
 
+- **Corte ortogonal de metales · MPM**
+
+    ---
+
+    Deformación plástica, contacto y calentamiento durante el avance de una
+    herramienta. Dominios materiales compartidos e integración explícita e
+    implícita para estudiar la formación de viruta.
+
+    **Estado:** desarrollo y verificación numérica; corte completo y
+    validación experimental pendientes.
+
+    [Ver el proyecto](projects/metal-cutting.md){ .md-button .md-button--primary }
+    [Código](https://github.com/MC-Andes/Metal_cutting){ .md-button }
+
+
 - **Cavitación · Basilisk–MPM**
 
     ---
@@ -22,6 +37,19 @@ el repositorio correspondiente.
     [Ver el proyecto](projects/cavitation-coupling.md){ .md-button .md-button--primary }
     [Código](https://github.com/MC-Andes/cavitation-coupling){ .md-button }
 
+- **Aeroelasticidad pasiva · MATLAB**
+
+    ---
+
+    Deformación y vibración de un álabe fijo en aire, conservando el sólido
+    original. FEM, VLM/UVLM y Navier–Stokes laminar propios.
+
+    **Estado:** investigación en desarrollo; verificación numérica bajo
+    hipótesis explícitas, sin validación experimental del espécimen.
+
+    [Ver el proyecto](projects/passive-airfoil-aeroelasticity.md){ .md-button .md-button--primary }
+    [Código](https://github.com/MC-Andes/passive-airfoil-aeroelasticity-matlab){ .md-button }
+
 - **Delaunay Mesher**
 
     ---
@@ -29,8 +57,10 @@ el repositorio correspondiente.
     Generación reproducible de geometrías y mallas partícula–matriz para
     mecánica computacional.
 
-    El repositorio reúne las instrucciones y el alcance de la herramienta.
+    **Estado:** desarrollo y verificación geométrica; validación experimental
+    pendiente. Incluye un ejemplo público reproducible y sus limitaciones.
 
+    [Ver el proyecto](projects/delaunay-mesher.md){ .md-button .md-button--primary }
     [Código y documentación](https://github.com/MC-Andes/Delaunay_mesher){ .md-button }
 
 </div>

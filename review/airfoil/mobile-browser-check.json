@@ -1,0 +1,44 @@
+{
+  "documentWidth": 390,
+  "images": [
+    {
+      "loaded": true,
+      "naturalWidth": 1164,
+      "renderedWidth": 358,
+      "src": "../../assets/airfoil/geometry.png"
+    },
+    {
+      "loaded": true,
+      "naturalWidth": 1211,
+      "renderedWidth": 358,
+      "src": "../../assets/airfoil/convergence.png"
+    },
+    {
+      "loaded": true,
+      "naturalWidth": 1159,
+      "renderedWidth": 358,
+      "src": "../../assets/airfoil/free-response.png"
+    },
+    {
+      "loaded": true,
+      "naturalWidth": 1223,
+      "renderedWidth": 358,
+      "src": "../../assets/airfoil/plate-comparison.png"
+    },
+    {
+      "loaded": true,
+      "naturalWidth": 1186,
+      "renderedWidth": 358,
+      "src": "../../assets/airfoil/viscous-wake.png"
+    }
+  ],
+  "video": {
+    "duration": 8.033333,
+    "muted": true,
+    "readyState": 4
+  },
+  "viewport": [
+    390,
+    844
+  ]
+}

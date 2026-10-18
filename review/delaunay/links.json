@@ -1,0 +1,65 @@
+{
+  "local_errors": [],
+  "external": [
+    {
+      "url": "https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback",
+      "status": 200,
+      "final": "https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback"
+    },
+    {
+      "url": "https://github.com/MC-Andes",
+      "status": 200,
+      "final": "https://github.com/MC-Andes"
+    },
+    {
+      "url": "https://github.com/MC-Andes/Delaunay_mesher",
+      "status": 200,
+      "final": "https://github.com/MC-Andes/Delaunay_mesher"
+    },
+    {
+      "url": "https://github.com/MC-Andes/Delaunay_mesher/blob/04d3d362677397aeb290d77cb2a9d02959fd44c8/README.md",
+      "status": 200,
+      "final": "https://github.com/MC-Andes/Delaunay_mesher/blob/04d3d362677397aeb290d77cb2a9d02959fd44c8/README.md"
+    },
+    {
+      "url": "https://github.com/MC-Andes/Delaunay_mesher/tree/04d3d362677397aeb290d77cb2a9d02959fd44c8",
+      "status": 200,
+      "final": "https://github.com/MC-Andes/Delaunay_mesher/tree/04d3d362677397aeb290d77cb2a9d02959fd44c8"
+    },
+    {
+      "url": "https://github.com/MC-Andes/Delaunay_mesher/tree/04d3d362677397aeb290d77cb2a9d02959fd44c8/examples",
+      "status": 200,
+      "final": "https://github.com/MC-Andes/Delaunay_mesher/tree/04d3d362677397aeb290d77cb2a9d02959fd44c8/examples"
+    },
+    {
+      "url": "https://github.com/MC-Andes/Delaunay_mesher/tree/04d3d362677397aeb290d77cb2a9d02959fd44c8/scripts",
+      "status": 200,
+      "final": "https://github.com/MC-Andes/Delaunay_mesher/tree/04d3d362677397aeb290d77cb2a9d02959fd44c8/scripts"
+    },
+    {
+      "url": "https://github.com/MC-Andes/Delaunay_mesher/tree/04d3d362677397aeb290d77cb2a9d02959fd44c8/tests",
+      "status": 200,
+      "final": "https://github.com/MC-Andes/Delaunay_mesher/tree/04d3d362677397aeb290d77cb2a9d02959fd44c8/tests"
+    },
+    {
+      "url": "https://gmsh.info/doc/texinfo/",
+      "status": 200,
+      "final": "https://gmsh.info/doc/texinfo/"
+    },
+    {
+      "url": "https://neper.info/neper-reference-paper.pdf",
+      "status": 200,
+      "final": "https://neper.info/neper-reference-paper.pdf"
+    },
+    {
+      "url": "https://orbi.uliege.be/handle/2268/22742",
+      "status": 200,
+      "final": "https://orbi.uliege.be/handle/2268/22742"
+    },
+    {
+      "url": "https://squidfunk.github.io/mkdocs-material/",
+      "status": 200,
+      "final": "https://squidfunk.github.io/mkdocs-material/"
+    }
+  ]
+}

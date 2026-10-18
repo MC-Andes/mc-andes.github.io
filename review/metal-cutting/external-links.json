@@ -1,0 +1,76 @@
+[
+  {
+    "url": "https://doi.org/10.1002/nme.5606",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://doi.org/10.1007/s00170-024-14597-2",
+    "status": 200,
+    "final_url": "https://link.springer.com/article/10.1007/s00170-024-14597-2?error=cookies_not_supported&code=e3eec27f-811b-40cb-9788-c468973eaf68"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.cma.2019.112622",
+    "status": 200,
+    "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0045782519305043"
+  },
+  {
+    "url": "https://doi.org/10.6100/IR520863",
+    "status": 200,
+    "final_url": "https://research.tue.nl/en/publications/metal-cutting-mechanics-and-material-behaviour/"
+  },
+  {
+    "url": "https://github.com/MC-Andes/Metal_cutting",
+    "status": 200,
+    "final_url": "https://github.com/MC-Andes/Metal_cutting"
+  },
+  {
+    "url": "https://github.com/MC-Andes/Metal_cutting.git",
+    "status": 200,
+    "final_url": "https://github.com/MC-Andes/Metal_cutting"
+  },
+  {
+    "url": "https://github.com/MC-Andes/Metal_cutting/blob/6026aef4401f70af853ecb0b20a8e1ec3dfb852b/cases/cutting2d/mpm_ck45_current.json",
+    "status": 200,
+    "final_url": "https://github.com/MC-Andes/Metal_cutting/blob/6026aef4401f70af853ecb0b20a8e1ec3dfb852b/cases/cutting2d/mpm_ck45_current.json"
+  },
+  {
+    "url": "https://github.com/MC-Andes/Metal_cutting/blob/main/RUN_MPM.md",
+    "status": 200,
+    "final_url": "https://github.com/MC-Andes/Metal_cutting/blob/main/RUN_MPM.md"
+  },
+  {
+    "url": "https://github.com/MC-Andes/Metal_cutting/blob/main/reports/corte_desarrollado_numerico_20260910/formulacion/mpm_runtime_frozen_v4/launch.py",
+    "status": 200,
+    "final_url": "https://github.com/MC-Andes/Metal_cutting/blob/main/reports/corte_desarrollado_numerico_20260910/formulacion/mpm_runtime_frozen_v4/launch.py"
+  },
+  {
+    "url": "https://github.com/MC-Andes/Metal_cutting/blob/main/reports/informe_tecnico_es.md",
+    "status": 200,
+    "final_url": "https://github.com/MC-Andes/Metal_cutting/blob/main/reports/informe_tecnico_es.md"
+  },
+  {
+    "url": "https://github.com/MC-Andes/Metal_cutting/commit/6026aef4401f70af853ecb0b20a8e1ec3dfb852b",
+    "status": 200,
+    "final_url": "https://github.com/MC-Andes/Metal_cutting/commit/6026aef4401f70af853ecb0b20a8e1ec3dfb852b"
+  },
+  {
+    "url": "https://github.com/MC-Andes/Metal_cutting/tree/main/verification/cutting2d/cpdi_mpm_candidate",
+    "status": 200,
+    "final_url": "https://github.com/MC-Andes/Metal_cutting/tree/main/verification/cutting2d/cpdi_mpm_candidate"
+  },
+  {
+    "url": "https://www.cof.orst.edu/cof/wse/faculty/Nairn/papers/MPMCutting.pdf",
+    "status": 200,
+    "final_url": "https://www.cof.orst.edu/cof/wse/faculty/Nairn/papers/MPMCutting.pdf"
+  },
+  {
+    "url": "https://github.com/MC-Andes/Metal_cutting/blob/main/verification/cutting2d/direct_q4_candidate/constitutive.py",
+    "status": 200,
+    "final_url": "https://github.com/MC-Andes/Metal_cutting/blob/main/verification/cutting2d/direct_q4_candidate/constitutive.py"
+  },
+  {
+    "url": "https://github.com/MC-Andes/Metal_cutting/blob/main/verification/cutting2d/direct_q4_candidate/native/finite_jc_batch.cpp",
+    "status": 200,
+    "final_url": "https://github.com/MC-Andes/Metal_cutting/blob/main/verification/cutting2d/direct_q4_candidate/native/finite_jc_batch.cpp"
+  }
+]
