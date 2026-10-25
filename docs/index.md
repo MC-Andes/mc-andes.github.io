@@ -41,15 +41,17 @@ Construimos resultados que puedan revisarse, ejecutarse y extenderse.
 
     ---
 
-    Curso abierto y autocontenido en español: comienza con forma débil y un
-    problema de Poisson; después abre rutas de calor, sólidos, fluidos y
-    multifísica. Incluye trece lecciones y ejemplos verificables con ejecución
-    serial/MPI en FEniCSx 0.11 y Python 3.12.
+    Curso abierto y autocontenido en español: comienza con forma débil y una
+    primera simulación de Poisson guiada paso a paso; después abre rutas de
+    calor, sólidos, fluidos y multifísica. Incluye figuras didácticas, puntos de
+    control y ejemplos verificables con ejecución serial/MPI en FEniCSx 0.11 y
+    Python 3.12.
 
     No requiere inscripción, docente ni calificaciones: cada persona aprende y
     comprueba los resultados a su propio ritmo.
 
     [Entrar al curso](https://mc-andes.github.io/fenicsx-course/){ .md-button .md-button--primary }
+    [Comenzar paso a paso](https://mc-andes.github.io/fenicsx-course/guides/first-simulation/){ .md-button }
     [Código](https://github.com/MC-Andes/fenicsx-course){ .md-button }
     [Release v0.1.1](https://github.com/MC-Andes/fenicsx-course/releases/tag/v0.1.1){ .md-button }
 
