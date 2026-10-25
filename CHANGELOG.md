@@ -29,3 +29,5 @@
 - Presentación alineada con la identidad visual vigente del portal MC-Andes.
 - Catálogo organizado en investigación, formación e infraestructura compartida.
   Se conservan las rutas existentes del sitio y el curso destacado.
+- La portada y el catálogo de cursos presentan la nueva ruta visual y guiada de
+  FEniCSx, con acceso directo a la primera simulación paso a paso.
